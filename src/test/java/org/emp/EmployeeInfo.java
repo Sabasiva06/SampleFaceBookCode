@@ -16,6 +16,26 @@ public class EmployeeInfo {
 		System.out.println("Company address is abc");
 	}
 
+	public void empDomain1() {
+		System.out.println("Automation Testing");
+	}
+
+	public void empDomain2() {
+		System.out.println("Automation Testing");
+	}
+
+	public void empDomain3() {
+		System.out.println("Automation Testing");
+	}
+
+	public void empDomain4() {
+		System.out.println("Automation Testing");
+	}
+
+	public void empDomain5() {
+		System.out.println("Automation Testing");
+	}
+
 	public static void main(String[] args) {
 		EmployeeInfo ei = new EmployeeInfo();
 		ei.empDomain();
